@@ -8,3 +8,6 @@ Fuente:https://phoenixnap.com/kb/letsencrypt-docker
 
 ### Pasos a seguir
 * [Pasos](proyecto.md)
+
+#### Seguimiento a errores
+* [Erorres](errores.md)
