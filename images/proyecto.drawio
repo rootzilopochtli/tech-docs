@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T18:49:30.730Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="fvY2ubvIrHLF8yNdbr3D" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T19:00:14.122Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="z_srN70J_YtfuaVs8-CG" version="24.4.8" type="github">
   <diagram name="Page-1" id="1jpkCRX16hjmeSiLWtBs">
     <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -29,6 +29,18 @@
         </UserObject>
         <mxCell id="JCPrWBakVLXpnN9H-Ezp-7" value="Web Page" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="240" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JCPrWBakVLXpnN9H-Ezp-9" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="550" y="357" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JCPrWBakVLXpnN9H-Ezp-10" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="690" y="350" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JCPrWBakVLXpnN9H-Ezp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JCPrWBakVLXpnN9H-Ezp-2" target="JCPrWBakVLXpnN9H-Ezp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JCPrWBakVLXpnN9H-Ezp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JCPrWBakVLXpnN9H-Ezp-4" target="JCPrWBakVLXpnN9H-Ezp-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
