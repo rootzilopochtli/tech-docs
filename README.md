@@ -7,4 +7,4 @@ Fuente:https://phoenixnap.com/kb/letsencrypt-docker
 ![Diagrama](images/proyecto.png)
 
 ### Pasos a seguir
-* [Pasos](proeycto.md)
+* [Pasos](proyecto.md)
